@@ -1,5 +1,5 @@
 # Netflix_Dashboard
-![Dashboard 1 (2)](https://github.com/user-attachments/assets/d5525430-a3df-4f77-a9b8-6628e0059e4f)
+![Dashboard 1](https://github.com/imdSaurabh22/Netflix_Dashboard/assets/149091345/b6a31ca9-688f-40fe-a478-2bfe71f73a8d)
 
 This project focuses on analyzing Netflix's content library and user engagement to uncover trends in viewing behavior, content preferences, and subscription patterns. Using publicly available datasets, including information on movies, TV shows, ratings, and user reviews, the analysis aims to provide actionable insights into how content is consumed across different genres, regions, and demographic segments.
 Key Objectives:
@@ -20,4 +20,4 @@ Expected Outcomes:
 •	A better understanding of viewer sentiment based on ratings and reviews.
 This project highlights the ability to process large datasets, apply data analytics techniques, and provide strategic recommendations based on trends and insights in the entertainment industry.
 
-![Dashboard 1](https://github.com/imdSaurabh22/Netflix_Dashboard/assets/149091345/b6a31ca9-688f-40fe-a478-2bfe71f73a8d)
+
