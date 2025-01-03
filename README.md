@@ -1,5 +1,6 @@
 # Netflix_Dashboard
-https://public.tableau.com/app/profile/saurabh5356/viz/Netflix-Dashboard_16697283341410/Dashboard1
+![Dashboard 1 (2)](https://github.com/user-attachments/assets/d5525430-a3df-4f77-a9b8-6628e0059e4f)
+
 This project focuses on analyzing Netflix's content library and user engagement to uncover trends in viewing behavior, content preferences, and subscription patterns. Using publicly available datasets, including information on movies, TV shows, ratings, and user reviews, the analysis aims to provide actionable insights into how content is consumed across different genres, regions, and demographic segments.
 Key Objectives:
 1.	Content Analysis: Investigate the distribution of movies and TV shows by genre, release year, and country of origin. Identify trends in Netflix’s content acquisition strategy over time.
